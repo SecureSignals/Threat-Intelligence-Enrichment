@@ -52,8 +52,8 @@ IPV4_PATTERN = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 DOMAIN_PATTERN = re.compile(r"^(?!-)(?:[a-zA-Z0-9-]{1,63}\.)+[a-zA-Z]{2,}$")
 
 # API keys - set your keys here
-ABUSEIPDB_API_KEY = "SECRET_REQUIRED"
-VT_API_KEY = "SECRET_REQUIRED"  # optional
+ABUSEIPDB_API_KEY = "your_abuseipdb_api_key_here"
+VT_API_KEY = "your_virustotal_api_key_here"  # optional
 
 # API rate limiting configs (adjust intervals as needed)
 API_LIMITS = {
@@ -1137,5 +1137,6 @@ if __name__ == "__main__":
     print("🚀 Threat Intelligence Web Application Starting...")
     print("📱 Access the application at: http://localhost:5000")
     print("🛑 Press Ctrl+C to stop the server")
+
 
     app.run(host='0.0.0.0', port=5000, debug=False)
