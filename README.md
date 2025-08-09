@@ -47,7 +47,7 @@ pip install flask requests dnspython ipwhois urllib3 python-whois
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/threat-intelligence-web-app.git
+git clone https://github.com/shresthpaul133/threat-intelligence-web-app.git
 cd threat-intelligence-web-app
 ```
 
@@ -251,3 +251,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **⚡ Built for Security Professionals | 🌍 Works Worldwide | 🔒 Privacy Focused**
+
