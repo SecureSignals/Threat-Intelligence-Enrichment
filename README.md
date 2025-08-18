@@ -233,9 +233,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/threat-intelligence-web-app/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/threat-intelligence-web-app/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/threat-intelligence-web-app/discussions)
+- **Issues**: [GitHub Issues](https://github.com/SecByShresth/threat-intelligence-web-app/issues)
+- **Documentation**: [Wiki](https://github.com/SecByShresth/threat-intelligence-web-app/wiki)
+- **Discussions**: [GitHub Discussions](https://github.com/SecByShresth/threat-intelligence-web-app/discussions)
 
 ## 🔄 Changelog
 
@@ -251,6 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **⚡ Built for Security Professionals | 🌍 Works Worldwide | 🔒 Privacy Focused**
+
 
 
 
